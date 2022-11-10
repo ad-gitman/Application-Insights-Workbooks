@@ -181,8 +181,7 @@
 				{
 					"id": "Workbooks/Azure Monitor - Agents/Agent Migration Tracker",
 					"author": "Microsoft",
-					"name": "AMA Migration Helper",
-					"isPreview": true
+					"name": "AMA Migration Helper"
 				}				
 			]
 		},
@@ -309,7 +308,7 @@
 					"id": "Workbooks/UpdateCompliance/UpdateComplianceHub",
 					"author": "Microsoft",
                     "description": "Monitor Windows 10/11 updates",
-					"name": "Update Compliance"
+					"name": "Windows Update for Business reports"
 				}
 			]
 		}
